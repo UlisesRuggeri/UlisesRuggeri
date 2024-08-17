@@ -18,11 +18,10 @@
 </a>
 <a href="https://www.instagram.com/ulises_ruggeri/" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulises_ruggeri" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ulises-si-949539283/" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ulises-si" height="30" width="40" /></a>
-<a href="https://discord.com/invite/S4x3rtYV" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.icons8.com/ios/40/000000/discord-new.png" alt="Discord" height="30" width="40" /></a>
+<a href="https://discord.com/invite/S4x3rtYV" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.icons8.com/ios/50/000000/discord-logo.png" alt="Discord" height="30" width="30" /></a>
+
 </p>
-<p align="left">
-<a href="https://twitter.com/ulisesruggeri" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/ulisesruggeri?logo=twitter&style=for-the-badge" alt="ulisesruggeri" /></a>
-</p>
+
 
 <br>
 
