@@ -4,7 +4,7 @@
 <h2 align="center">Hola! soy Ulises 👋</h2>
 
 <p align="center">
-  <img src="./portada.jpg" alt="presentacion"  >
+  <img src="./portada.png" alt="presentacion"  >
 </p>
 
 <br>
