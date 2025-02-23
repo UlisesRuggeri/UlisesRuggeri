@@ -5,10 +5,7 @@
 
 
 
-<br>
-<p align="center">I enjoy creating accessible websites that convey the most satisfying, effective and visually appealing experience for all users.<br></p>
-<br>
-<p align="center">Let's open-source together! Send me a link!!!</p>
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
