@@ -1,11 +1,9 @@
 <br>
 <br>
 
-<h2 align="center">Hola! soy Ulises 👋</h2>
 
-<p align="center">
-  <img src="./portada.png" alt="presentacion"  >
-</p>
+
+
 
 <br>
 <p align="center">I enjoy creating accessible websites that convey the most satisfying, effective and visually appealing experience for all users.<br></p>
