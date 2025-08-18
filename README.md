@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  ![Snake animation](https://github.com/UlisesRuggeri/UlisesRuggeri/blob/output/snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/UlisesRuggeri/UlisesRuggeri/main/output/snake.svg)
 </div>
 
 
