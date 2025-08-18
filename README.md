@@ -11,7 +11,6 @@
 <!--- snake -->
 <div align="center">
   ![Snake animation](https://github.com/UlisesRuggeri/UlisesRuggeri/blob/output/snake.svg)
-  <img src="https://github.com/UlisesRuggeri/UlisesRuggeri/blob/main/output/snake.svg" alt="snake" />
 </div>
 
 
