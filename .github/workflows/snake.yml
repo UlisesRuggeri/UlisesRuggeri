@@ -1,19 +1,31 @@
 name: generate-snake
+
 on:
-  schedule: [{ cron: "0 0 * * 1" }]  # corre los lunes
+  schedule:
+    - cron: "0 0 * * 1"  # Corre los lunes
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      # 🔑 Clonamos el repo para poder usar Git
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generamos el SVG con la acción Platane/snk
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: UlisesRuggeri
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: Commit files
+
+      # Creamos la carpeta output, copiamos el SVG y lo subimos
+      - name: Commit Snake SVG
         run: |
           mkdir -p output
           cp dist/github-contribution-grid-snake.svg output/snake.svg
