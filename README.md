@@ -8,9 +8,9 @@
   </ul>
 </div>
 
-<!--- snake -->
+<!-- snake -->
 <div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/UlisesRuggeri/UlisesRuggeri/main/output/snake.svg)
+      <img src="https://raw.githubusercontent.com/UlisesRuggeri/UlisesRuggeri/main/output/snake.svg" alt="Snake animation" />
 </div>
 
 
