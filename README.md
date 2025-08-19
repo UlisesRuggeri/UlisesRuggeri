@@ -26,7 +26,7 @@
 - 🎮 Built fun games with **HTML, CSS, JavaScript**  
 - 🌱 Learning advanced concepts of **backend & scalable apps**  
 - 💬 Ask me about **.NET, C#, SQL Server, JavaScript**  
-- 📫 Reach me at: **(agregá tu mail si querés)**  
+- 📫 Reach me at: **ruggeriulises2@gmail.com**  
 
 <!--Intro end-->
 
