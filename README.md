@@ -22,10 +22,8 @@
 </div>
 
 <!--Intro start-->
-- 🏗️ Currently working on a **ASP.NET Core project** with **Clean Architecture** & SOLID  
-- 🎮 Built fun games with **HTML, CSS, JavaScript**  
 - 🌱 Learning advanced concepts of **backend & scalable apps**  
-- 💬 Ask me about **.NET, C#, SQL Server, JavaScript**  
+- 💬 Ask me about **.NET, C#, SQL Server**  
 - 📫 Reach me at: **ruggeriulises2@gmail.com**  
 
 <!--Intro end-->
@@ -39,15 +37,13 @@
 
 ---
 
-## 🏗️ ASP.NET Core Project (33% in progress)
+## 🏗️ ASP.NET Core Project
 
 ✔️ **Clean Architecture** with 4 layers: Domain, Application, Infrastructure, Presentation.Web  
 ✔️ **SOLID principles** applied  
 ✔️ **Razor Views + Bootstrap**  
 ✔️ **Result Pattern** & **Decoration Pattern**  
 ✔️ **Clean pagination** implementation  
-
-⚠️ Still in progress (33%), but already demonstrates my ability to work in a **professional environment**.  
 
 ---
 
@@ -82,7 +78,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,js,html,css,bootstrap,git,github,sqlserver,visualstudio,vscode,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,html,css,bootstrap,git,github,visualstudio,vscode,postman&perline=10" />
   </a>
 </p>
 
